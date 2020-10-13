@@ -44,7 +44,7 @@ limitations under the License.
 
     <properties>
         <!-- Test libs -->
-        <junit_version>4.12</junit_version>
+        <junit_version>4.13.1</junit_version>
         <easymock_version>3.4</easymock_version>
         <jmockit_version>1.33</jmockit_version>
         <cglib_version>2.2</cglib_version>
